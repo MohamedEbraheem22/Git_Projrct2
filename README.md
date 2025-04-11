@@ -1,5 +1,8 @@
 ﻿# Git Project
 ##To remove branch locally
+
+
+
 ##git branch -d (name of branch) safe delete 
 
 
